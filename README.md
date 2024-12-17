@@ -1,4 +1,5 @@
 # Jogo Educacional 🎮📚
+### JogE+ ###
 Projeto desenvolvido como parte do TCC do ensino médio na ETEC onde estudei. Este jogo foi pensado como uma ferramenta educacional para crianças do 4º ao 6º ano, com o objetivo de reforçar conteúdos escolares de forma interativa e divertida.
 
 ### ✨ Motivação ###
@@ -15,4 +16,5 @@ Voltado para reforço de conteúdos escolares do ensino fundamental.
 Abrange tópicos variados de maneira lúdica.
 Desenvolvido como uma base inicial, com potencial para melhorias futuras.
 ### 🔍 Observações ###
-Por ser um projeto antigo e de nível iniciante, o código reflete as habilidades que tínhamos na época. Ainda assim, ele possui um valor sentimental e educativo, e decidi disponibilizá-lo aqui para inspirar outras pessoas e como registro da nossa jornada de aprendizado.
+Por ser um projeto antigo e de nível iniciante, o código reflete as habilidades que tínhamos na época. Ainda assim, ele possui um valor sentimental e educativo, e decidi disponibilizá-lo aqui para inspirar outras pessoas e como registro da nossa jornada de aprendizado. 
+
